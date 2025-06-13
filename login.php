@@ -238,7 +238,7 @@ if (isset($_POST['loginbtn'])) {
     <!-- Kontainer utama buat form login -->
     <div class="login-container">
         <div class="login-box shadow-sm">
-            <h3>Login to Your Account</h3>
+            <h3>Login</h3>
             <!-- Form login -->
             <form action="" method="post" novalidate>
                 <!-- Input username -->
